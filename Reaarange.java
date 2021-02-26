@@ -2,7 +2,6 @@
 import java.util.ArrayList;
 class Rearrange
 {
-    public static void main (String[] args) {
          public String reorderSpaces(String text)    {
         ArrayList<String> wordsList = new ArrayList<String>();
         int spaces = 0;
@@ -51,4 +50,4 @@ class Rearrange
       }
             
     }
-}
+
